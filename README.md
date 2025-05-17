@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+This GitHub is used for Workfront dashboard navigation elements for different organizations within Coca-Cola. 
 <!--
 **coca-cola-ops/coca-cola-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
